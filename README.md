@@ -39,6 +39,6 @@ Open Repository > Repository settings > Ignored files.
 Following https://guide.freecodecamp.org/git/gitignore/, add the 2 lines
 *.csv
 *.fig
-to the box and click Save.  This will make git ignore all files with file extension csv (such as our spectra) and all Matlab figures.  For your future git repositories, list all your non-code file extensions and specific files here.
+to the box and click Save, then Commit to master and Push origin.  This will make git ignore all files with file extension csv (such as our spectra) and all Matlab figures.  For your future git repositories, list all your non-code file extensions and specific files here.
 
 We're done!  Send Lia a Slack message to celebrate your victory.
